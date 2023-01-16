@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+  <title> Form  </title>
+</head>
+<body>
+  <form>
+    <label> Name : </label>
+    <input type="text" placeholder="Enter your name">
+    <label> Age : </label>
+    <input type="number"> 
+    
+    <input type="submit" value="button">
+    <input type="date">
+    <input type="radio">
+    <input type="range" color="black">
+    <!DOCTYPE html>
+<head>
+  <title> Form  </title>
+</head>
+<body>
+  <form>
+    <label> Name : </label>
+    <input type="text" placeholder="Enter your name">
+    <label> Age : </label>
+    <input type="number">
+    <input type="submit" value="button">
+    <input type="date">
+    <input type="radio">
+    <input type="file" color="black">
+    
+    </form>
+    </body>
+    </html>
