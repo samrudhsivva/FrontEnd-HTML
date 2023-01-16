@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <table cellspacing="20px">
+    <tr>
+      <td>
+  <img src=Z" width="100px" height="100px" alt=" ">
+      </td>
+      <td>
+  <h2>Angela Yu</h2>
+    <strong><em>Founder and CTO of 
+      <a href="www.google.com"> The App Brewery</a></em></strong>
+  <p> I am an iOS Web Developer. I ❤️ coffee and brew my own beers.</p>
+      </td>
+    </tr>
+    <table>
+  <hr>
+  <h5> Books and Teaching </h5>
+  <ul>
+    <li>The Complete iOS App Development Bootcamp</li>
+    <li>The Complete Web Development Bootcamp</li>
+  </ul>
+                              <hr>
+  <h5>Work Experience</h5>
+ 
+    <table cellspacing="10px">
+                      <thead>
+                       <tr>
+                       <th> Dates </th>
+                       <th> Work </th>
+                       </tr>
+                       </thead>
+                       
+      <tr>
+        <td> 2010 </td>
+        <td>Researcher at The Institute of Cognitive Neurosciences</td>
+      </tr>
+      <tr>
+        <td> 2010-2013 
+      </td>
+        <td> Lead Developer at Tempo App </td>
+      </tr>
+  </table>
+        
+  <a href="www.hobbies.com">My Hobbies </a>
+     <a href="www.contact.com"> Contact Me </a>
+    <hr>
+  <h3>Skills</h3>
+  <table cellspacing="10px">
+                              <tr>
+                              <td> iOS Development ⭐⭐</td><td> Photography ⭐⭐⭐ </td></tr>
+                              <tr>
+                              <td>
+                              Web Development⭐⭐
+                              </td>
+                              <td>
+                              Painting⭐ </td>
+                              </tr>  
+                            
+                              
+</body>
+                     
+</html>
