@@ -1,0 +1,10 @@
+var myName=prompt("enter your name");
+var myCrushName=prompt("your crush name?")
+function loveScore(myName,myCrushName)
+{
+var randInt=Math.random();
+randInt=randInt*6;
+randInt=Math.floor(randInt)+1;
+    return randInt*10;
+}
+alert("your love score is "+loveScore(myName,myCrushName));
