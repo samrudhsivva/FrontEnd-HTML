@@ -6,4 +6,4 @@ var randInt=Math.random()*100;
 randInt=randInt*1;
 return randInt;
 }
-alert("your love score is "+loveScore(myName,myCrushName));
+alert("your love score is "+loveScore(myName,myCrushName)+"%");
